@@ -532,7 +532,7 @@ body {
   background: #16C8BB;
 }
 .btn-form::before {
-  content: url(./../../img/svg/search.svg);
+  content: url(./img/svg/search.svg);
 }
 @media (max-width: 420px) {
   .btn-form {
